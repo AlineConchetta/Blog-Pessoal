@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "spring.jackson.time.zone",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jackson.time.zone'"
+  },
+  {
+    "name": "spring.jackson.time.zone",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jackson.time.zone'"
+  },
+  {
+    "name": "spring.jackson.time.zone",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jackson.time.zone'"
+  }
+]}
