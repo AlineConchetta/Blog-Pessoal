@@ -60,10 +60,6 @@ public class PostagemController {
 					.body(postagemRepository.save(postagem));
 		
 		throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Tema não existe!", null);
-<<<<<<< HEAD
-=======
-		
->>>>>>> Deploy
 		// INSERT INTO tb_postagens (titulo, texto) VALUES (?,?);
 	}
 
